@@ -9,19 +9,18 @@
 
 ```javascript
 const ritta = {
-  pronouns: 'he' | 'him',
-  code: ['Javascript', 'Python'],
-  askMeAbout: ['web dev', 'tech', 'web sec', 'games'],
-  tools: ['React', 'Redux', 'Node', 'Jest'],
+  pronouns: "he" | "him",
+  code: ["Javascript", "Python"],
+  askMeAbout: ["web dev", "tech", "web sec", "games"],
   technologies: {
     backEnd: {
         js: ["Node"],
     },
     frontEnd: {
-        js: ['React', 'Redux']
+        js: ["React", "Redux"]
     },
     databases: ["mongo", "MySql", "sqlite"],
-    misc: ["Firebase", "Docker"]
+    misc: ["Firebase", "Docker", "Jest"]
   },
 }
 ```
