@@ -10,7 +10,7 @@
 ```javascript
 const ritta = {
   pronouns: 'he' | 'him',
-  code: ['Javascript', 'HTML', 'CSS'],
+  code: ['Javascript', 'Python'],
   askMeAbout: ['web dev', 'tech', 'web sec', 'games'],
   tools: ['React', 'Redux', 'Node', 'Jest'],
   technologies: {
