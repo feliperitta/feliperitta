@@ -1,5 +1,5 @@
 <h2> Hi, I'm Felipe Ritta! </h2>
-<p><em>Web Development Student at <a href="https://www.betrybe.com">Trybe</a></em></p>
+<p><em>Web Development Student at <a target="_blank" href="https://www.betrybe.com">Trybe</a></em></p>
 
 [![Linkedin: feliperitta](https://img.shields.io/badge/-feliperitta-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/feliperitta/)](https://www.linkedin.com/in/feliperitta/)
 [![GitHub Felipe Ritta](https://img.shields.io/github/followers/feliperitta?label=follow&style=social)](https://github.com/feliperitta)
