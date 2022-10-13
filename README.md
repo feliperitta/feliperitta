@@ -7,7 +7,6 @@
 
 ```javascript
 const ritta = {
-  pronouns: "he" | "him",
   code: ["Javascript", "Python"],
   askMeAbout: ["tech", "web sec", "games", "front-end"],
   technologies: {
