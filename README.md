@@ -23,7 +23,7 @@ const mySkills = {
 ```
 
 ![Felipe Ritta's GitHub stats](https://github-readme-stats.vercel.app/api?username=feliperitta&show_icons=true&theme=radical)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=feliperitta&layout=compact)](https://github.com/feliperitta/github-readme-stats)
 ---
 
 ### Contact
