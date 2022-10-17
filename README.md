@@ -8,7 +8,7 @@
 ```javascript
 const mySkills = {
   code: ["Javascript", "Python"],
-  askMeAbout: ["tech", "web sec", "games", "front-end"],
+  askMeAbout: ["tech", "web sec", "games", "front-end", "chess"],
   technologies: {
     backEnd: {
         js: ["Node"],
