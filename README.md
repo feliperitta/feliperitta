@@ -22,6 +22,10 @@ const mySkills = {
 };
 ```
 
+---
+
+### My Github
+
 ![Felipe Ritta's GitHub stats](https://github-readme-stats.vercel.app/api?username=feliperitta&show_icons=true&theme=radical)
 
 ---
