@@ -14,7 +14,7 @@ const mySkills = {
         js: ["Node"],
     },
     frontEnd: {
-        js: ["React", "Redux", "Context API"]
+        js: ["React", "Redux", "Context API"],
     },
     databases: ["mongo", "MySql", "sqlite"],
     misc: ["Firebase", "Docker", "Jest", "RTL"]
