@@ -13,7 +13,7 @@ const mySkills = {
       knowledge: ["javascript", "typescript", "python"],
     },
     backEnd: {
-      js: ["Node", "Express", "Sequelize", "Typescript"],
+      js: ["Node", "Express", "Sequelize"],
     },
     frontEnd: {
       js: ["React", "Redux", "Context API"],
