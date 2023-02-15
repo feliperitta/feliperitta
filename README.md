@@ -1,5 +1,5 @@
 <h2> Hi, I'm Felipe Ritta! </h2>
-<p><em>Web Development Student at <a href="https://www.betrybe.com">Trybe</a></em></p>
+<p><em>Web Developer and Student at <a href="https://www.betrybe.com">Trybe</a></em></p>
 
 ---
 
@@ -7,14 +7,16 @@
 
 ```javascript
 const mySkills = {
-  code: ["Javascript", "Python"],
   askMeAbout: ["tech", "web sec", "games", "front-end", "chess"],
   technologies: {
+    languages: {
+      knowledge: ["javascript", "typescript", "python"],
+    },
     backEnd: {
-        js: ["Node"],
+      js: ["Node", "Express", "Sequelize", "Typescript"],
     },
     frontEnd: {
-        js: ["React", "Redux", "Context API"],
+      js: ["React", "Redux", "Context API"],
     },
     databases: ["mongo", "MySql", "sqlite"],
     misc: ["Firebase", "Docker", "Jest", "RTL"]
