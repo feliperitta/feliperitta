@@ -7,7 +7,7 @@
 
 ```javascript
 const mySkills = {
-  askMeAbout: ["tech", "web sec", "games", "front-end", "chess"],
+  askMeAbout: ["tech", "web sec", "games", "full-stack", "chess"],
   technologies: {
     languages: {
       knowledge: ["javascript", "typescript", "python"],
