@@ -1,5 +1,5 @@
 <h2> Hi, I'm Felipe Ritta! </h2>
-<p><em>Web Developer and Student at <a href="https://www.betrybe.com">Trybe</a></em></p>
+<p><em>Web Developer and Student at <a href="https://www.betrybe.com">Trybe</a> and <a href="http://www.ifsul.edu.br/">IFSul</a> </em></p>
 
 ---
 
